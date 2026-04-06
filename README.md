@@ -49,5 +49,12 @@ This is leveraging a simplier meta agent for the purpose of building a Multi Val
 - [MVC Agent](https://github.com/dtehan/mvc-agent)
 - This experience was built in 2025-2026.  It is technical in nature.
 
+### leadership-agent
+This is an experiement of a team of agents working under a command and control process, the CEO leads the discussion around a questions and generates a memo.  Each team member contributes to the discussion and the CEO synthesizes the information into a final memo.  Team members all have memory of past decisions and of their collegues.  Team members can be made more real by adding profile information about them, such as their background, their personality, their preferences, etc.
+- [leadership-agent](https://github.com/dtehan/leadership-agent)
+- this experiment was developed in April 2026.
+ 
+
+
 ## License
 These projects are licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.

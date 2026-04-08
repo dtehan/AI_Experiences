@@ -53,7 +53,11 @@ This is leveraging a simplier meta agent for the purpose of building a Multi Val
 This is an experiement of a team of agents working under a command and control process, the CEO leads the discussion around a questions and generates a memo.  Each team member contributes to the discussion and the CEO synthesizes the information into a final memo.  Team members all have memory of past decisions and of their collegues.  Team members can be made more real by adding profile information about them, such as their background, their personality, their preferences, etc.
 - [leadership-agent](https://github.com/dtehan/leadership-agent)
 - this experiment was developed in April 2026.
- 
+
+### leadership-team
+This is a smaller team that levereages pi agent teams.  We are using a structure that is less command and control in this approach.
+- [leadership-team](https://github.com/dtehan/leadership-team)
+- This experience was developed in April 2026, it is an experiment in using pi agent.
 
 
 ## License

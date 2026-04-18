@@ -4,6 +4,8 @@ This repository contains a collection of AI experiences, showcasing various appl
 
 In some ways this is a collection of learning expereiences for me, but I hope that others can also find value in exploring these projects and learning from the approaches taken.  The projects range from more technical implementations to more user-facing experiences, providing a broad overview of the possibilities in AI development.
 
+I publish to github under dtehan (personal) and dtehan-td (Teradata) accounts, the dtehan-td account is where I publish projects that are more closely related to Teradata and its ecosystem, while the dtehan account is where I publish projects that are more general in nature.  Some projects may be published under both accounts if they are relevant to both audiences.
+
 ## Table of Contents
 - [AI Experiences](#ai-experiences)
   - [Table of Contents](#table-of-contents)
@@ -24,7 +26,7 @@ Through the development of these experiences, I have gained valuable insights in
 ## Getting Started
 To get started with a specific AI experience, follow the instructions provided in the respective experience's README file. Each experience may have its own dependencies and setup requirements, so be sure to read the documentation carefully.  Most recent experiences will be at the top of the list.
 
-## Enterprise Memory
+### Enterprise Memory
 This is an experiment in building an enterprise memory system, it is designed to be a central repository for agents to store and retrieve information.  The goal of this project is to create a system that can be used to manage the knowledge and information that agents need to perform their tasks effectively.
 - [enterprise-memory](https://github.com/dtehan/Enterprise-Memory)
 - This is an exploration into what an enterprise memory system would need to look like to support a large number of agents in an enterprise setting.  It is still in early stages of development, but it serves as a starting point for building a more advanced enterprise memory system in the future.

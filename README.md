@@ -32,10 +32,11 @@ This is an experiment in building an enterprise memory system, it is designed to
 - This is an exploration into what an enterprise memory system would need to look like to support a large number of agents in an enterprise setting.  It is still in early stages of development, but it serves as a starting point for building a more advanced enterprise memory system in the future.
 - Currently under a more restrictive license.
 
-### brain 
+### second-brain 
 This is my second brain code.  It is a MCP server that manages a knowledge graph and provides an interface for querying and updating the knowledge graph.  The goal of this project is to create a personal knowledge management system that can be used to store and retrieve information in a structured way.
-- [brain](https://github.com/dtehan/brain)
-- This was built in April 2026, it superscedes my first brain project that was built ealier in the year.  This project is still in early stages of development, but it serves as a starting point for building a more advanced personal knowledge management system in the future.
+- [brain](https://github.com/dtehan/second-brain)
+- This was built in April 2026, it superscedes my first brain project that was built ealier in the year based on a vector database approach.  This version moved to a database and wiki approach.
+- I have since moved to the obisidian approach.
 
 ### leadership-team
 This is a smaller team that levereages pi agent teams.  We are using a structure that is less command and control in this approach.
